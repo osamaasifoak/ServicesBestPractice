@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "101555683848",
+    "firebase_url": "https://servaid-80e64.firebaseio.com",
+    "project_id": "servaid-80e64",
+    "storage_bucket": "servaid-80e64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101555683848:android:bb73d8b887983c9a3b07bd",
+        "android_client_info": {
+          "package_name": "com.servaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101555683848-j1pa83f5kq4q62511okeeh8dcandmb5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Wm6oGlboq6m823ubSsrWK_Q_Ne-pPqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101555683848-j1pa83f5kq4q62511okeeh8dcandmb5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
